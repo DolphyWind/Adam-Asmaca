@@ -1,2 +1,2 @@
-#Adam Asmaca
-Python ile adam asmaca oyunu
+# Adam Asmaca
+ Python ile adam asmaca oyunu
